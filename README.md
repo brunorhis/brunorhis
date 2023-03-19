@@ -10,7 +10,7 @@ Que a força esteja com você!
 ## Meus Estudos
 
 ### Introdução ao Pentest na Prática
-![Progresso](https://progress-bar.dev/40/?title=Concluído)
+![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
 ### Novo Pentest Profissional
 ![Progresso](https://progress-bar.dev/20/?title=Em%20andamento)
