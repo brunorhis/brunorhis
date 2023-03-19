@@ -30,7 +30,7 @@ Que a força esteja com você!
 ## Meus Conhecimentos
 
 Aqui estão algumas das minhas habilidades:
-
+<div style="background-image:url('https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU');">
 <div align="center">
   <br/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
