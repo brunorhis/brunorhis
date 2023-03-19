@@ -52,7 +52,7 @@ Se você é um curioso de plantão e quer saber sobre minhas habilidades de hack
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
+<!--
 **brunorhis/brunorhis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
