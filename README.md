@@ -9,6 +9,9 @@ Que a força esteja com você!
 
 ## Meus Estudos
 
+### Ethical Hacking com Kali Linux | Nmap | Metasploit (2022)
+![Progresso](https://progress-bar.dev/40/?title=Em%40andamento)
+
 ### Introdução ao Pentest na Prática
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
@@ -17,6 +20,8 @@ Que a força esteja com você!
 
 ### Pentest Experience
 ![Progresso](https://progress-bar.dev/0/?title=Pendente)
+
+
 
 
 
