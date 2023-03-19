@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno, Padawan em Cyber Security 👋
 
-Que a força esteja com você! Meu nome é Bruno e estou em busca de conhecimento na área de segurança da informação. Minha jornada tem sido como a de um Padawan em treinamento, sempre em busca de evolução e novas habilidades.
+ Meu nome é Bruno e estou em busca de conhecimento na área de segurança da informação. Minha jornada tem sido como a de um Padawan em treinamento, sempre em busca de evolução e novas habilidades.
 
 Neste repositório você encontrará projetos, estudos e experimentos da minha caminhada nesse universo fascinante que é a segurança cibernética. Espero que goste e que possamos aprender juntos.
 
