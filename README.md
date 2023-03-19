@@ -23,6 +23,8 @@ Que a força esteja com você!
 ### DCPT Certification
 ![Progresso](https://progress-bar.dev/0/?title=Pendente)
 
+### Curso de Defesa Cibernética - Estacio
+![Progresso](https://progress-bar.dev/0/?title=Pendente)
 
 ## Meus Conhecimentos
 
