@@ -7,6 +7,10 @@ Neste repositório você encontrará projetos, estudos e experimentos da minha c
 
 Que a força esteja com você!
 
+## Meus Estudos
+
+
+
 ## Meus Conhecimentos
 
 Aqui estão algumas das minhas habilidades:
