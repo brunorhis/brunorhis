@@ -1,11 +1,3 @@
-body {
-    background-image: url("https://i.imgur.com/uK1W9uC.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-
-
 
 # Olá, eu sou o Bruno, Padawan em Cyber Security 👋
 
