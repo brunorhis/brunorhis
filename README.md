@@ -26,7 +26,6 @@ Que a força esteja com você!
 
 
 
-
 ## Meus Conhecimentos
 
 Aqui estão algumas das minhas habilidades:
