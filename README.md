@@ -9,6 +9,24 @@ Que a força esteja com você!
 
 ## Meus Estudos
 
+### Introdução ao Pentest na Prática
+
+![Progresso](https://progress-bar.dev/30/?title=concluído "30% concluído")
+<br>
+<img src="https://exemplo.com/curso1.png" alt="Introdução ao Pentest na Prática" width="100">
+
+### Novo Pentest Profissional
+
+![Progresso](https://progress-bar.dev/50/?title=em andamento "50% em andamento")
+<br>
+<img src="https://exemplo.com/curso2.png" alt="Novo Pentest Profissional" width="100">
+
+### Pentest Experience
+
+![Progresso](https://progress-bar.dev/0/?title=não iniciado "0% não iniciado")
+<br>
+<img src="https://exemplo.com/curso3.png" alt="Pentest Experience" width="100">
+
 
 
 ## Meus Conhecimentos
