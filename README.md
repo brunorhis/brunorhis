@@ -21,6 +21,8 @@ Que a força esteja com você!
 ### Pentest Experience
 ![Progresso](https://progress-bar.dev/0/?title=Pendente)
 
+### DCPT Certification
+![Progresso](https://progress-bar.dev/0/?title=Pendente)
 
 
 
