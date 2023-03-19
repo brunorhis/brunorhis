@@ -7,7 +7,19 @@
 
 <p>Que a força esteja com você!</p>
 
-
+<div>
+  <h2>Meus Conhecimentos</h2>
+  <ul>
+    <li><i class="devicon-python-plain"></i> Python</li>
+    <li><i class="devicon-html5-plain"></i> HTML</li>
+    <li><i class="devicon-css3-plain"></i> CSS</li>
+    <li><i class="devicon-shell-plain"></i> Shell Script</li>
+    <li><i class="devicon-linux-plain"></i> Linux</li>
+    <li><i class="devicon-windows8-original"></i> Windows</li>
+    <li><i class="devicon-apple-original"></i> macOS</li>
+    <li><i class="devicon-cplusplus-plain"></i> C++</li>
+  </ul>
+</div>
 
 
 <!--
