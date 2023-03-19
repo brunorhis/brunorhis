@@ -18,7 +18,12 @@
   <img src="https://img.icons8.com/color/48/000000/mac-os.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </div>
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! Eu sou o Bruno e sou um Padawan em Cyber Security! <img src="https://media.giphy.com/media/l0K4hT6ZrKsDtwuV6/giphy.gif" width="30px">
+<div align="center">
+  <h2>Minhas Habilidades de Hacking</h2>
+  <br/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hackerman">
+</div>
+
 
 
 <!--
