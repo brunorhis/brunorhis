@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Bruno, Padawan em Cyber Security 👋</h1>
 <p>Que a força esteja com você! Meu nome é Bruno e estou em busca de conhecimento na área de segurança da informação. Minha jornada tem sido como a de um Padawan em treinamento, sempre em busca de evolução e novas habilidades.</p>
 
-<p><img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="May the Force be with you!"></p>
+<p><img src="[https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif](https://media0.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif?cid=ecf05e47oah9pzg1znqeq2yepcru1bavppqk63chnvupsqcf&rid=giphy.gif&ct=g)" alt="May the Force be with you!"></p>
 
 <p>Neste repositório você encontrará projetos, estudos e experimentos da minha caminhada nesse universo fascinante que é a segurança cibernética. Espero que goste e que possamos aprender juntos.</p>
 
