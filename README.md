@@ -35,7 +35,7 @@ Se você é um curioso de plantão e quer saber sobre minhas habilidades de hack
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hackerman">
 </div>
 
-
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 <h1>Olá, eu sou o Bruno, Padawan em Cyber Security 👋</h1>
