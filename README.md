@@ -38,7 +38,6 @@ Aqui estão algumas das minhas habilidades:
   <img src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows">
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="MacOS">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
-  <img align="right" src="https://giphy.com/embed/LMEpLANstlIrasBIQZ" alt="Penguin">
 </div>
 
 ## Minhas Habilidades de Hacking
