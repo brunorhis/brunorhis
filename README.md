@@ -6,13 +6,15 @@ Neste repositório você encontrará projetos, estudos e experimentos da minha c
 
 Que a força esteja com você!
 
-## Meus Estudos
+### Meus Estudos
 
 ### Ethical Hacking com Kali Linux | Nmap | Metasploit (2022)
 ![Progresso](https://progress-bar.dev/40/?title=Em%20andamento)
 
 ### Introdução ao Pentest na Prática
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+
 
 ### Novo Pentest Profissional
 ![Progresso](https://progress-bar.dev/17/?title=Em%20andamento)
@@ -26,7 +28,7 @@ Que a força esteja com você!
 ### Curso de Defesa Cibernética - Estacio
 ![Progresso](https://progress-bar.dev/0/?title=Pendente)
 
-## Meus Conhecimentos
+### Meus Conhecimentos
 
 Aqui estão algumas das minhas habilidades:
 <div align="center">
