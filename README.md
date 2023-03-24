@@ -13,8 +13,10 @@ Que a força esteja com você!
 
 ### Introdução ao Pentest na Prática
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-
+<div align="left">
+  <img src="https://i.imgur.com/xiYwGbV.png" alt="DESEC001">
+  <img src="https://i.imgur.com/E8gSAhp.png" alt="DESEC002">
+</div>
 
 ### Novo Pentest Profissional
 ![Progresso](https://progress-bar.dev/17/?title=Em%20andamento)
