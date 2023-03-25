@@ -15,7 +15,7 @@ Que a força esteja com você!
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
 ### Novo Pentest Profissional
-![Progresso](https://progress-bar.dev/17/?title=Em%20andamento)
+![Progresso](https://progress-bar.dev/19/?title=Em%20andamento)
 <div align="left">
   <img src="https://i.imgur.com/xiYwGbV.png" alt="DESEC001">
   <img src="https://i.imgur.com/E8gSAhp.png" alt="DESEC002">
