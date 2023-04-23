@@ -15,7 +15,7 @@ Que a força esteja com você!
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
 ### Novo Pentest Profissional
-![Progresso](https://progress-bar.dev/25/?title=Em%20andamento)
+![Progresso](https://progress-bar.dev/32/?title=Em%20andamento)
 
 
 ### Pentest Experience
