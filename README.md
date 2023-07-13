@@ -15,7 +15,7 @@ Que a força esteja com você!
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
 ### Novo Pentest Profissional
-![Progresso](https://progress-bar.dev/45/?title=Em%20andamento)
+![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
 
 ### Pentest Experience
@@ -25,7 +25,7 @@ Que a força esteja com você!
 ![Progresso](https://progress-bar.dev/0/?title=Pendente)
 
 ### Curso de Defesa Cibernética - Estacio
-![Progresso](https://progress-bar.dev/0/?title=Pendente)
+![Progresso](https://progress-bar.dev/0/?title=Em%20andamento)
 
 ### Meus Conhecimentos
 
