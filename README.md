@@ -19,13 +19,16 @@ Que a força esteja com você!
 
 
 ### Pentest Experience
-![Progresso](https://progress-bar.dev/100/?title=Pendente)
+![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
 ### DCPT Certification
-![Progresso](https://progress-bar.dev/100/?title=Pendente)
+![Progresso](https://progress-bar.dev/100/?title=Concluído)
+
+### CRTP Certification
+![Progresso](https://progress-bar.dev/10/?title=Pendente)
 
 ### Curso de Defesa Cibernética - Estacio
-![Progresso](https://progress-bar.dev/10/?title=Em%20andamento)
+![Progresso](https://progress-bar.dev/15/?title=Em%20andamento)
 
 ### Meus Conhecimentos
 
