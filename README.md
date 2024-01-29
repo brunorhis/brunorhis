@@ -44,6 +44,10 @@ Aqui estão algumas das minhas habilidades:
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
 </div>
 
+<a href="https://medium.com/@morganbinbash" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+</a>
+
 ## Minhas Habilidades de Hacking
 
 Se você é um curioso de plantão e quer saber sobre minhas habilidades de hacking, confira o gif abaixo:
