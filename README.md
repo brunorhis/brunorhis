@@ -13,36 +13,33 @@
 <a href="https://discord.gg/https://discord.gg/gfYw7kfMDU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gfYw7kfMDU" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/buru1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/buru1" /></a></p><br><br>
-
-### Meus Estudos
+### My Studies:
 
 ### Ethical Hacking com Kali Linux | Nmap | Metasploit (2022)
 ![Progresso](https://progress-bar.dev/100/?title=Em%20andamento)
 
-### Introdução ao Pentest na Prática
+### Introduction to Practical Pentesting ( Desec Security )
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
-### Novo Pentest Profissional
+### New Professional Pentesting ( Desec Security )
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
 
-### Pentest Experience
+### Pentest Experience ( Desec Security )
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
-### DCPT Certification
+### DCPT Certification ( Desec Security )
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
-### CRTP Certification
+### CRTP Certification ( Altered Security )
 ![Progresso](https://progress-bar.dev/10/?title=Pendente)
 
-### Curso de Defesa Cibernética - Estacio
+### College Course in Cybersecurity Defense - Estacio
 ![Progresso](https://progress-bar.dev/15/?title=Em%20andamento)
 
 ### Meus Conhecimentos
 
-Aqui estão algumas das minhas habilidades:
+Some of my knowledge:
 <div align="center">
   <br/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
@@ -54,7 +51,11 @@ Aqui estão algumas das minhas habilidades:
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
 </div>
 
-## Minhas Habilidades de Hacking
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/buru1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/buru1" /></a></p><br><br>
+
+
+## My Hacking Abilities:
 
 Se você é um curioso de plantão e quer saber sobre minhas habilidades de hacking, confira o gif abaixo:
 
