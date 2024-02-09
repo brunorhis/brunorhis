@@ -7,6 +7,28 @@
 
 - 📫 How to reach me **brunorhis@gmx.com**
 
+<div class="home-content" data-scroll data-scroll-speed="-5" >
+            <h3 class="mu">Olá , me chamo</h3>
+            <h1>Bruno Rhis</h1>
+            <h3>e eu sou <span class="pro-text">
+                <script>
+                   var typed = new Typed(".pro-text", {
+                      strings: [
+                        "Hacker Ético",
+                        "Pentester",
+                        "Programador",
+                        "Consultor de TI",
+                        "Estudante",
+                        "Entusiasta",
+                      ],
+                      typeSpeed: 100,   
+                      backSpeed: 100,   
+                      backDelay: 1000,  
+                      loop: true        
+                    });
+                </script>
+            </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brunorhis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunorhis" height="30" width="40" /></a>
