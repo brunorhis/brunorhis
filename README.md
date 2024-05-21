@@ -32,10 +32,10 @@
 ![Progresso](https://progress-bar.dev/100/?title=Concluído)
 
 ### CRTP Certification ( Altered Security )
-![Progresso](https://progress-bar.dev/10/?title=Pendente)
+![Progresso](https://progress-bar.dev/100/?title=Pendente)
 
 ### College Course in Cybersecurity Defense - Estacio
-![Progresso](https://progress-bar.dev/15/?title=Em%20andamento)
+![Progresso](https://progress-bar.dev/40/?title=Em%20andamento)
 
 ### Meus Conhecimentos
 
